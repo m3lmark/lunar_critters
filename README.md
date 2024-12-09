@@ -12,7 +12,7 @@ this tool fetches daily observation counts of a specified taxon from iNaturalist
 ### sample input
 
 ```bash
-enter the taxon_id: 12345
+enter the taxon_id: 461806
 enter the year (yyyy): 2023
 ```
 
